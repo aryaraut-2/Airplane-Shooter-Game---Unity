@@ -1,0 +1,19 @@
+{
+    "name": "Develop.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:8f587d55c1dad4345a9617e0e625ff19"
+    ],
+    "includePlatforms": [
+        "Editor",
+        "QNX"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

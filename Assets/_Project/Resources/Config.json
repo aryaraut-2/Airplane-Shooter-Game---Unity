@@ -1,0 +1,11 @@
+{
+  "Core": {
+    "AirplaneConfig": {
+      "Responsiveness": 0.5,
+      "Bullet": {
+        "Speed": 400.0,
+        "LifeTime": 5.0
+      }
+    }
+  }
+}
